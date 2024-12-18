@@ -2,6 +2,8 @@
 
 The Haunted Mansion Escape Game is a text-based adventure where you are trapped inside a haunted mansion, and must aid the mansion's previous owner in finding a precious item of his in order to escape.
 
+This project was made in collaboration with James Bridges and Liam Worthington.
+
 ## Walkthrough
 
 Explore the mansion's rooms, collect items, and talk to the NPC to find a way to escape, while avoiding encountering too many hazards.
