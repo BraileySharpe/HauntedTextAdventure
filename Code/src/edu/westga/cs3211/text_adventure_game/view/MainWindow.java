@@ -10,7 +10,7 @@ import javafx.scene.control.TextArea;
 
 /** Codebehind for the Main Window of the application.
  * 
- * @author James Bridges
+ * @author Brailey Sharpe, James Bridges
  * @version Fall 2024
  */
 public class MainWindow {

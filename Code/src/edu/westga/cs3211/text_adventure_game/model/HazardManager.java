@@ -8,7 +8,7 @@ import edu.westga.cs3211.text_adventure_game.model.GlobalEnums.HazardType;
 /**
  * The hazard manager
  * 
- * @author James Bridges
+ * @author Brailey Sharpe, James Bridges
  * @version Fall 2024
  */
 public class HazardManager {

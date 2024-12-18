@@ -4,7 +4,7 @@ package edu.westga.cs3211.text_adventure_game.model;
  * This class serves as a container for various enums used throughout the
  * program.
  * 
- * @author James Bridges
+ * @author Brailey Sharpe, James Bridges
  * @version Fall 2024
  */
 public class GlobalEnums {

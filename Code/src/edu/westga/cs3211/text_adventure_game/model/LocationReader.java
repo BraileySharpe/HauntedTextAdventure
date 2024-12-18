@@ -11,7 +11,7 @@ import edu.westga.cs3211.text_adventure_game.model.GlobalEnums.Item;
 /**
  * The location reader
  * 
- * @author Liam Worthington
+ * @author Brailey Sharpe, Liam Worthington
  * @version Fall 2024
  */
 public class LocationReader {

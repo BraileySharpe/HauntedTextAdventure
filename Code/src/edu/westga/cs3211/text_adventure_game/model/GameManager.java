@@ -7,7 +7,7 @@ import edu.westga.cs3211.text_adventure_game.model.GlobalEnums.Item;
 /**
  * The game manager
  * 
- * @author James Bridges
+ * @author Brailey Sharpe, James Bridges
  * @version Fall 2024
  */
 public class GameManager {

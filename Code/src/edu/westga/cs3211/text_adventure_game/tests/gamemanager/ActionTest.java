@@ -42,7 +42,6 @@ public class ActionTest {
 		this.gameManager.setCurrentLocation(world.getLocationByName(GlobalEnums.LocationName.LIBRARY));
 		this.gameManager.performAction(action, Item.NONE);
 
-
 		assertEquals(GlobalEnums.LocationName.ATTIC, this.gameManager.getCurrentLocation().getName());
 	}
 

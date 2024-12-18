@@ -16,7 +16,7 @@ import javafx.collections.ObservableList;
 /**
  * The ViewModel for the MainWindow.
  * 
- * @author James Bridges
+ * @author Brailey Sharpe, James Bridges
  * @version Fall 2024
  */
 public class ViewModel {
