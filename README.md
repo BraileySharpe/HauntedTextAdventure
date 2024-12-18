@@ -7,22 +7,6 @@ Once inside, you get trapped and must find a way out while avoiding hazards.
 
 Explore the mansion by moving north, south, east, west, up, or down. Your goal is to find the Exit while avoiding hazards.
 
-How to Reach all Hazards
-
--Start in the Entrance Hall: Begin in the Entrance Hall.
-
--Move North to the Library: Head north to reach the Library. Watch out for the Ghostly Apparition (10 damage).
-
--Move Up to the Attic: From the library, move up to the Attic. Beware of the Creepy Doll (10 damage).
-
--Move Down to the Library (10 damage), then East to the Ballroom. Encounter the Dancing Shadows (18 damage).
-
--Return to Library and Move Down: Go back down to the Library (10 damage) and then south to the Entrance Hall.
-
--Move East to the Kitchen: From the entrance, move east to the Kitchen. Encounter the Cursed Stove (15 damage).
-
--Move Down to the Basement: From the kitchen, move down to the Basement. Face the Rotting Corpse (100 damage, will die here).
-
 ### How to Reach Exit
 
 -Start in the Entrance Hall: Begin in the Entrance Hall.
